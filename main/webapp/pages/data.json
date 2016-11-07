@@ -1,0 +1,29 @@
+{
+	"locationTypes": 
+	[
+		{
+			"locationCd": 1,
+			"locationTypeDesc": "OTHERS"
+		},
+
+		{
+			"locationCd": 2,
+			"locationTypeDesc": "GYM"
+		},
+
+		{
+			"locationCd": 3,
+			"locationTypeDesc": "CAFE"
+		},
+
+		{
+			"locationCd": 4,
+			"locationTypeDesc": "RESTAURANT"
+		},
+		{
+			"locationCd": 5,
+			"locationTypeDesc": "PARLOUR"
+		}
+		
+	]
+}
